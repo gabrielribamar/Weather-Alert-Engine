@@ -58,7 +58,7 @@ Weather-Alert-Engine/
 ## ▶️ Como executar o projeto
 
 ```bash
-git clone <link-do-repo>
+git clone https://github.com/gabrielribamar/Weather-Alert-Engine.git
 cd Weather-Alert-Engine
 pip install requests
 python main.py
